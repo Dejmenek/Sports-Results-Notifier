@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "SportsResultsNotifier": {
+      "commandName": "Project",
+      "workingDirectory": "C:\\Users\\Damian\\source\\repos\\Sports-Results-Notifier"
+    }
+  }
+}
